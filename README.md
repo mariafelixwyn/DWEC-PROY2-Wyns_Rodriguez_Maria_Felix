@@ -1,5 +1,7 @@
 https://github.com/mariafelixwyn/DWEC-PROY2-Wyns_Rodriguez_Maria_Felix/
 
+https://proyecto2cliente.000webhostapp.com/
+
 
 Explicación:
 El proyecto está dividido en componentes que conforman una SPA a modo
