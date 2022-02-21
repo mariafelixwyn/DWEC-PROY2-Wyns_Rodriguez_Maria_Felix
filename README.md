@@ -1,3 +1,24 @@
+https://github.com/mariafelixwyn/DWEC-PROY2-Wyns_Rodriguez_Maria_Felix/
+
+
+Explicación:
+El proyecto está dividido en componentes que conforman una SPA a modo
+de portfolio. Estos componentes son: header (un pequeño header que da
+la opción de visualizar el contenido que deseemos), about (donde se 
+encuentra la información personal), academics (toda la información 
+académica), portfolio (link a repositorio de github y al proyecto del
+primer trimestre), utility (usando una calculadora desarrollada en react),
+y footer (que no tiene ninguna función). 
+
+Como librerías externas he usado Bootstrap y Lorem Picsum
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
